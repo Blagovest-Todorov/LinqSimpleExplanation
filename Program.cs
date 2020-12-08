@@ -23,9 +23,11 @@ namespace _18.LinqAgain
             //Linq work on collections, it attaches methods , Linq extends the objects functionality !
             // Linq attaches methods to the objects  Linq attaches methods to the collestions, 
             // linq works on the collections, it attaches methods to the collections, 
-            //it extends the  Objects functionality !
+            // it extends the  Objects functionality !
             // in order to work array.Min() , List.Min()-> we neesd to use namespace using System.Linq ~!!!
-            //We use Linq to attache methods to the collections, so we extend the Objects, collelctions functionality!
+            // We use Linq to attache methods to the collections, so we extend the Objects, collelctions functionality!
+            // //Linq extends the capabilities of the collections !!! by adding methods functonality
+            array.Max(); // uses Max Method on the collection array!
         }
     }
 }
